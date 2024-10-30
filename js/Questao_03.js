@@ -8,9 +8,9 @@ var nota_03_peso = nota_03 * 0.2;
 var nota_final = nota_01_peso + nota_02_peso + nota_03_peso;
 
 alert("Nome do aluno: " + nomeAluno + "\n" + 
-	  "Nota 1: " + nota_01 + "\n" + 
-	  "Nota 2: " + nota_02 + "\n" + 
+	"Nota 1: " + nota_01 + "\n" + 
+	"Nota 2: " + nota_02 + "\n" + 
 	"Nota 3: " + nota_03 + "\n");
 
 alert('Nome do aluno: ' + nomeAluno + "\n" + 
-	  "Nota final: " + nota_final);
+	"Nota final: " + nota_final);
