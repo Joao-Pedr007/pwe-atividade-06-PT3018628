@@ -10,4 +10,4 @@ alert("Nome do aluno: " + nomeAluno + "\n" +
 	  "Nota 2: " + nota_02 + "\n");
 
 alert('Nome do aluno: ' + nomeAluno + "\n" + 
-	  "Nota final: " + nota_final);
+	  "Nota final: " + nota_final+ "\n" + 'coloquei as minhas notas');
